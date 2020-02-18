@@ -1,5 +1,8 @@
 # shard-paper
 ### IEEE-SP
+#### 2018
+* OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding<br>
+Authors:Eleftherios Kokoris-Kogias†, Philipp Jovanovic†, Linus Gasser†, Nicolas Gailly†, Ewa Syta∗, Bryan Ford† 
 ### ACM-CCS
 #### 2019
 * Poster: A Proof-of-Stake(PoS) Blockchain Protocol using Fair and Dynamic Sharding Management<br>
