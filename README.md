@@ -6,7 +6,7 @@
 #### 2018
 * RapidChain: Scaling Blockchain via Full Sharding 
 #### 2016
-* A Secure Sharding Protocol For Open Blockchains
+* A Secure Sharding Protocol For Open Blockchains<br>
 Authors: Loi Luu,Viswesh Narayanan,Chaodong Zheng,Kunal Baweja,Seth Gilbert,Prateek Saxena
 ### USENIX-Security
 ### FC
