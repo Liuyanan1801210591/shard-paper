@@ -1,7 +1,7 @@
 # shard-paper
 ### IEEE-SP
 #### 2018
-* <b>OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding</b><br>
+* [<b>OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding</b>](https://ieeexplore.ieee.org/document/8418625)<br>
 Authors: Eleftherios Kokoris-Kogias†, Philipp Jovanovic†, Linus Gasser†, Nicolas Gailly†, Ewa Syta∗, Bryan Ford† 
 ### ACM-CCS
 #### 2019
