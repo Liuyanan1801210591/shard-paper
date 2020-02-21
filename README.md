@@ -1,6 +1,8 @@
 # shard-paper
 * <b>PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously</b><br> 
 @ arXiv’2020
+* <b>RepChain: A Reputation-based Secure, Fast and High Incentive Blockchain System via Sharding</b><br> 
+@ arXiv’2020
 * <b>An n/2 Byzantine node tolerate Blockchain Sharding Approach</b><br>
 @ SAC’2020
 * <b>CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding</b><br>
