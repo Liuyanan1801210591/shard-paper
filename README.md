@@ -1,9 +1,9 @@
 # shard-paper
-* PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously[br] 
+* PolyShard: Coded Sharding Achieves Linearly Scaling Efficiency and Security Simultaneously<br> 
 @ arXiv’2020
-* An n/2 Byzantine node tolerate Blockchain Sharding Approach[br]
+* An n/2 Byzantine node tolerate Blockchain Sharding Approach<br>
 @ SAC’2020
-* CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding[br] 
+* CycLedger: A Scalable and Secure Parallel Protocol for Distributed Ledger via Sharding<br>
 @ IPDPS’2020
 * SharPer: Sharding Permissioned Blockchains Over Network Clusters @ Blockchain’2020
 * Monoxide: Scale out Blockchains with Asynchronous Consensus Zones @ NDSS’2019
